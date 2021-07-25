@@ -1,0 +1,23 @@
+nav {
+  padding-top: 20px;
+  background: white;
+  height: 50%;
+  width: 150px;
+  position: fixed;
+}
+
+nav a {
+  display: block;
+  margin: 10px;
+}
+
+main {
+  padding: 10px;
+  margin-left: 150px;
+}
+
+@media only screen and (max-width: 600px) {
+  nav {
+    background-color: burlywood;
+  }
+}
