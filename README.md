@@ -1,2 +1,4 @@
-# front_end_roadmap
-Front end roadmap resources following from roadmap.sh 
+# Proyectos y recursos
+
+Aquí podréis encontrar tanto recursos interesantes para aprender como proyectos de ejemplo de diferentes disciplinas y páginas web
+
