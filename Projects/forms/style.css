@@ -1,0 +1,30 @@
+body {
+    background-color: darkgray;
+
+
+}
+
+header {
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+    
+    }
+
+#title {
+    text-align: center;
+
+}
+
+#description {
+    text-align: center;
+}
+
+#jumbotron {
+    
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
